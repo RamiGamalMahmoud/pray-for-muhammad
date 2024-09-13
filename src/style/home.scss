@@ -1,0 +1,30 @@
+.aya {
+  text-align: center;
+display: block;
+  color: #bae4b4;
+  text-align: center;
+  text-shadow: 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000, 
+   0 0 1px #000;
+
+   box-shadow: 0 0 2rem #AAA;
+   border-radius: 10px 5px 10px 5px;
+   padding: 1rem;
+}
+
+@media (max-width: 600px) {
+  .aya {
+    max-width: 10em;
+  }
+}
